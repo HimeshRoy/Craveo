@@ -112,7 +112,7 @@ main {
 }
 
 .bg-img {
-    background-image: url(noorder.png);
+    background-image: url(https://github.com/HimeshRoy/Craveo/blob/main/noorder.png?raw=true);
     width: 50%;
     height: 300px;
     background-repeat: no-repeat;
@@ -223,7 +223,7 @@ main {
     }
 
     .bg-img {
-        background-image: url(noorder.png);
+        background-image: url(https://github.com/HimeshRoy/Craveo/blob/main/noorder.png?raw=true);
         width: 50%;
         height: 200px;
         background-repeat: no-repeat;
